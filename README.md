@@ -32,14 +32,23 @@
 
 ### 📁 Featured Projects
 
-- 🧰 [`terraform-aws-basics`](https://github.com/harshanjames/terraform-aws-basics): Sample IaC deployments
-- 📊 [`grafana-alert-dashboards`](https://github.com/harshanjames/grafana-alert-dashboards): Grafana JSON configs with best practices
-- 🎓 [`college-project-crack-detector`](https://github.com/harshanjames/college-project-crack-detector): Academic project on image processing
-- 🗃️ [`certifications`](https://github.com/harshanjames/certifications): All professional certificates and awards
+- 📊 [`Grafana`](https://github.com/harshanjames/Grafana): Example dashboards, alert rules, and visualizations for monitoring production systems with Grafana. Focused on real-time DevOps observability.
 
-> - DevOps contributions
-> - Technical leadership
-> - Certifications & mentoring
+- 🌍 [`website-accessibility-analyzer`](https://github.com/harshanjames/website-accessibility-analyzer): A Node.js CLI tool to audit website accessibility and generate reports using lighthouse and axe-core APIs.
+
+- 🌐 [`noiseMap`](https://github.com/harshanjames/noiseMap): Web-based visualization tool for environmental noise tracking, integrating Leaflet.js and public geolocation data. Built for real-time map interaction.
+
+- 🎲 [`randomNamePicker`](https://github.com/harshanjames/randomNamePicker): A lightweight frontend tool to pick random names from a list — useful for events, classrooms, or giveaways.
+
+- 📘 [`JS-Tutorial-Basics`](https://github.com/harshanjames/JS-Tutorial-Basics): Beginner-friendly JavaScript code snippets and examples, covering core concepts, syntax, and DOM manipulation.
+
+### 💪 Strengths
+- AWS, Kubernetes, Terraform
+- CI/CD Automation
+- Cloud Security Best Practices
+- DevOps contributions
+- Technical leadership
+- Certifications & mentoring
 ---
 Feel free to reach out for collaborations, opportunities, or feedback!
 
