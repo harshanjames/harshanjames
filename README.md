@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshan James</h1>
-<h3 align="center">Senior DevOps & SRE Engineer | Cloud Infra Specialist | Technical Support Engineer</h3>
+<h3 align="center"> Technical Support Engineer | DevOps & SRE Engineer | Cloud Infra Specialist | </h3>
 
 <img align="right" alt="DevOps Gif" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
@@ -10,14 +10,6 @@
 - 🌐 [My LinkedIn](https://linkedin.com/in/harshan-james) | [My GitHub](https://github.com/harshanjames)  
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshanjames&show_icons=true&theme=github_dark&hide=prs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshanjames&layout=compact&theme=github_dark"/>
-</p>
-
 ---
 
 ### 🏆 Certifications & Awards
